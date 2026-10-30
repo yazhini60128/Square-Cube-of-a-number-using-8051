@@ -28,6 +28,7 @@ To write and execute an Assembly language program for finding the square of a gi
 ```
 
 ## OUTPUT
+<img width="1046" height="547" alt="WhatsApp Image 2026-10-30 at 1 04 28 PM" src="https://github.com/user-attachments/assets/361bd018-fb13-41ab-b7ce-7f6b45cab74b" />
 
 
 ## RESULT
